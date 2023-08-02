@@ -12,8 +12,4 @@ I'm a current Computer Science Student at Texas A&M University. I am looking to 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bwees&layout=compact&hide=css,jupyter%20notebook&theme=one_dark_pro)
 
-
-🛠️ **Hobbies**
-- RC Airplanes
-- 3D Printing
-- Homelab
+📨 Send me an email! `hello (at) bwees.io`
