@@ -10,6 +10,6 @@ I'm a current Computer Science Student at Texas A&M University. I am looking to 
 - Computer: 14" Macbook Pro (M2 Pro, 32GB)
 - Favorite Language: Python
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bwees&layout=compact&hide=css,jupyter%20notebook,c&theme=one_dark_pro)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bwees&layout=compact&hide=css,jupyter%20notebook,c,assembly&theme=one_dark_pro)
 
 📨 Send me an email! `hello (at) bwees.io`
