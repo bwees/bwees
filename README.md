@@ -4,6 +4,8 @@
 
 I'm a current Computer Science Student at Texas A&M University. I am looking to focus on robotics and automation.
 
+iOS Development lead for [Reveille Rides](https://github.com/Reveille-Rides)
+
 ✅ **Quick Facts:**
 - Editor: VS Code
 - Theme: One Dark Pro
