@@ -10,7 +10,7 @@ iOS Development lead for [Reveille Rides](https://github.com/Reveille-Rides)
 - Editor: VS Code
 - Theme: One Dark Pro
 - Computer: 14" Macbook Pro (M2 Pro, 32GB)
-- Favorite Language: Python
+- Favorite Language: Swift/TypeScript
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bwees&layout=compact&hide=css,jupyter%20notebook,c,assembly&theme=one_dark_pro)
 
