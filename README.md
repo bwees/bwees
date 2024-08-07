@@ -4,7 +4,7 @@
 
 I'm a current Computer Science Student at Texas A&M University. I am looking to focus on robotics and automation.
 
-iOS Development lead for [Reveille Rides](https://github.com/Reveille-Rides)
+iOS Development lead for [Maroon Rides](https://github.com/Maroon-Rides)
 
 ✅ **Quick Facts:**
 - Editor: VS Code
