@@ -6,11 +6,13 @@ I'm a current Computer Science Student at Texas A&M University. I am looking to 
 
 iOS Development lead for [Maroon Rides](https://github.com/Maroon-Rides)
 
+Check out my blog! https://bwees.io
+
 ✅ **Quick Facts:**
 - Editor: VS Code
 - Theme: One Dark Pro
 - Computer: 14" Macbook Pro (M2 Pro, 32GB)
-- Favorite Language: Swift/TypeScript
+- Favorite Languages: Swift, TypeScript
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bwees&layout=compact&hide=css,jupyter%20notebook,c,assembly&theme=one_dark_pro)
 
