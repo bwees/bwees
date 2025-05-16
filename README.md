@@ -9,7 +9,7 @@ Check out my blog! https://bwees.io
 ### 🔭 Projects and Experience
 - Development lead for [Maroon Rides](https://github.com/Maroon-Rides)
 - Summer 2024 intern for [Lab37](https://www.lab37.us)
-- Summer 2025 intern for [Immich](https://immich.app)
+- Summer 2025 intern for [Immich](https://immich.app)/[FUTO](https://github.com/futo-org)
 - *Check out my [full resume](https://bwees.io/resume.pdf)*
 
 ### ✅ Quick Facts
