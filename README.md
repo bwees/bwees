@@ -18,7 +18,6 @@ Check out my blog! https://bwees.io
 - Computer: 14" Macbook Pro (M2 Pro, 32GB)
 - Favorite Languages: Swift, TypeScript
 
-![bwees's GitHub stats](https://github-readme-stats.vercel.app/api?username=bwees&show_icons=true&theme=dark)
-
+![bwees's GitHub stats](https://stats.bwees.io/?username=bwees&show_icons=true&theme=dark)
 
 📨 Send me an email! `hello (at) bwees.io`
